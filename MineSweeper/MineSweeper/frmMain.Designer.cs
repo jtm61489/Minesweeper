@@ -54,6 +54,7 @@
             this.btnMedium.TabIndex = 1;
             this.btnMedium.Text = "Medium";
             this.btnMedium.UseVisualStyleBackColor = true;
+            this.btnMedium.Click += new System.EventHandler(this.btnMedium_Click);
             // 
             // btnHard
             // 

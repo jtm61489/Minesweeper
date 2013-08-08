@@ -5,3 +5,5 @@ C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Deb
 C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.csproj.GenerateResource.Cache
 C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.exe
 C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.pdb
+C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.frmGame.resources
+C:\Users\Jeremy\Documents\GitHub\Minesweeper\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.csprojResolveAssemblyReference.cache

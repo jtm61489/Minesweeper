@@ -14,7 +14,7 @@ namespace MineSweeper
     {
         //create game difficulty variable
         int varGameDifficulty = 0;
-
+        
         public frmMain()
         {
             InitializeComponent();
@@ -24,7 +24,11 @@ namespace MineSweeper
         {
             //leave game difficulty variable default
             //open the game form
-            
+            frmGame f2 = new frmGame();
+            f2.Show();
+
+            frmMain f1 = (frmMain)Application.OpenForms["frmMain"];
+            f1.Close();
         }
 
         private void btnMedium_Click(object sender, EventArgs e)
@@ -33,8 +37,11 @@ namespace MineSweeper
             int varGameDifficulty = 1;
 
             //open the game form
+            frmGame f2 = new frmGame();
+            f2.Show();
 
-
+            frmMain f1 = new frmMain();
+            f1.Close();
         }
 
         private void btnHard_Click(object sender, EventArgs e)
@@ -43,8 +50,11 @@ namespace MineSweeper
             int varGameDifficulty = 2;
 
             //open the game form
+            frmGame f2 = new frmGame();
+            f2.Show();
 
-
+            frmMain f1 = new frmMain();
+            f1.Close();
         }
     }
 }
