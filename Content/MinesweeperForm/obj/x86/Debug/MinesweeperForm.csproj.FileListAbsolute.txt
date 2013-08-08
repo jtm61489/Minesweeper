@@ -1,0 +1,17 @@
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.Form1.resources
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.Properties.Resources.resources
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.csproj.GenerateResource.Cache
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\bin\Debug\MinesweeperForm.exe
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\bin\Debug\MinesweeperForm.pdb
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.exe
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.pdb
+E:\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.csprojResolveAssemblyReference.cache
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.exe
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.pdb
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.Form1.resources
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\MinesweeperForm.Properties.Resources.resources
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\bin\Debug\MinesweeperForm.exe
+C:\Users\Takako\Dropbox\C# Projects\MinesweeperForm\MinesweeperForm\bin\Debug\MinesweeperForm.pdb
