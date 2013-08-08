@@ -12,7 +12,7 @@ namespace MinesweeperForm
         private Button sqr;
         private Game game;
 
-        public Square(Game game, int xPos, int yPos)
+        public Square(Game game, int rowIdx, int colIdx)
         {
             
             sqr = new Button();
@@ -20,9 +20,8 @@ namespace MinesweeperForm
             sqr.Width = 16;
             sqr.Height = 16;
             sqr.FlatStyle = FlatStyle.Flat;
-
-            sqr.Left = xPos * sqr.Width;
-            sqr.Top = yPos * sqr.Height;
+            sqr.Location = new Point(rowIdx * sqr.Width,  //Location requires (x,y) 
+                colIdx * sqr.Height);          //(row number * 16, column number * 16) to keep simple with "blocks" not coords
 
             game.panel.Controls.Add(sqr);
         }

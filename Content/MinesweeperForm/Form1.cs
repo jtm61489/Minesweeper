@@ -11,6 +11,9 @@ namespace MinesweeperForm
 {
     public partial class Form1 : Form
     {
+        enum Difficulty { Easy, Medium, Hard };
+        Difficulty diff = Difficulty.Easy;
+
         public Form1()
         {
             InitializeComponent();
@@ -18,8 +21,23 @@ namespace MinesweeperForm
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            Game game = new Game(this.pnlMines, 9, 9, 10);
-            game.DrawGrid();
+            Game game;
+
+            switch (diff)
+            {
+                case Difficulty.Easy:
+                    game = new Game(this.pnlMines, 9, 9, 10);
+                    game.DrawGrid();
+                    break;
+                case Difficulty.Medium:
+                    game = new Game(this.pnlMines, 16, 16, 40);
+                    game.DrawGrid();
+                    break;
+                case Difficulty.Hard:
+                    game = new Game(this.pnlMines, 16, 16, 40);
+                    game.DrawGrid();
+                    break;
+            }
         }
 
     }
