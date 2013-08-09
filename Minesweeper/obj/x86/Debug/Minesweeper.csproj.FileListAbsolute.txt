@@ -1,0 +1,9 @@
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\bin\Debug\MinesweeperForm.exe
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\bin\Debug\MinesweeperForm.pdb
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\MinesweeperForm.exe
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\MinesweeperForm.pdb
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.DiffSelectFrm.resources
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Scott\Documents\GitHub\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.csprojResolveAssemblyReference.cache
